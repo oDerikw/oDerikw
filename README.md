@@ -41,6 +41,17 @@ Estou estudando <b>Ciência da Computação</b> pela Universidade Estadual do Ce
 &nbsp;
 &nbsp;
 
+## Principais Projetos Desenvolvidos
+
+<div align="center">
+  <a href="https://github.com/oderikw">
+    <img align="center" src="web.png" width="1080">
+    <img align="center" src="mob_quiz.png" width="1080">
+    <img align="center" src="mob_memoria.png.png" width="1080">
+  </a>
+</div>
+<br>
+
 ## Contacts:
 
 <div> 
