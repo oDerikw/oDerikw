@@ -1,12 +1,28 @@
-<img align="center" style="margin-bottom:100px" width=100% src="https://prnt.sc/6q4LE99qA2NM" />
-&nbsp;&nbsp;&nbsp;
+<div align="center">
+  <a href="https://github.com/oderikw">
+    <img align="center" src="start.png" width="500">
+  </a>
+</div>
+<br>
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
+## ⭐️ Sobre mim
+<div align='center'>
+Estou estudando <b>Ciência da Computação</b> pela Universidade Estadual do Centro Oeste (Unicentro) e atualmente estou em busca de uma oportunidade.
+<br><br>
 
+<div align="center">
+  <table>
+    <tr>
+      <td><b>🎓 Cientista da Computação</b></td>
+    </tr>
+    <tr>
+      <td><img src="https://apilgriminnarnia.files.wordpress.com/2018/09/legally-blonde-laptop-e1536078931635.jpg" width="300px" height="170px"></td>
+    </tr>
+  </table>
+</div>
  </div>
  
- &nbsp;
- &nbsp;
+ &nbsp;  &nbsp;
 
 ## My Skills
 
