@@ -1,6 +1,7 @@
+## Bem-Vindo
 <div align="center">
   <a href="https://github.com/oderikw">
-    <img align="center" src="start.png" width="500">
+    <img align="center" src="start.png" width="700">
   </a>
 </div>
 <br>
@@ -10,17 +11,17 @@
 Estou estudando <b>Ciência da Computação</b> pela Universidade Estadual do Centro Oeste (Unicentro) e atualmente estou em busca de uma oportunidade.
 <br><br>
 
-<div align="center">
-  <table>
-    <tr>
-      <td><b>🎓 Cientista da Computação</b></td>
-    </tr>
-    <tr>
-      <td><img src="https://apilgriminnarnia.files.wordpress.com/2018/09/legally-blonde-laptop-e1536078931635.jpg" width="300px" height="170px"></td>
-    </tr>
-  </table>
+  <div align="center">
+    <table>
+      <tr>
+        <td><b>🎓 Cientista da Computação</b></td>
+      </tr>
+      <tr>
+        <td><img src="https://apilgriminnarnia.files.wordpress.com/2018/09/legally-blonde-laptop-e1536078931635.jpg" width="300px" height="170px"></td>
+      </tr>
+    </table>
+  </div>
 </div>
- </div>
  
  &nbsp;  &nbsp;
 
@@ -46,8 +47,5 @@ Estou estudando <b>Ciência da Computação</b> pela Universidade Estadual do Ce
 <a href = "mailto:derik.leonardo.konisk@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/derik-konisk-238082289/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 </div>&nbsp;&nbsp;
- 
-
-  
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
