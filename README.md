@@ -43,12 +43,16 @@ Estou estudando <b>Ciência da Computação</b> pela Universidade Estadual do Ce
 
 ## Principais Projetos Desenvolvidos
 
+Sociau: Aplicativo mobile para auxílio de psicólogos no desenvolvimento de habilidades sociais de crianças no espectro autista.
+
 <div align="center">
   <a href="https://github.com/oderikw">
-    <img align="center" src="web.png" width="1080">
-    <img align="center" src="mob_quiz.png" width="1080">
-    <img align="center" src="mob_memoria.png.png" width="1080">
+    <img align="center" src="web.png" width="720"> <br>
+    <img align="center" src="mob_quiz.png" width="720"> <br> 
+    <img align="center" src="mob_memoria.png" width="720"> <br>
   </a>
+
+  <a href="https://drive.google.com/file/d/1Sv9sdMYx7mEMiTZURBO0hKAkp8z4zypc/view?usp=sharing" target="_blank"></a> 
 </div>
 <br>
 
