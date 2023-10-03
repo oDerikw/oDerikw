@@ -36,11 +36,6 @@ Estou estudando <b>Ciência da Computação</b> pela Universidade Estadual do Ce
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
-&nbsp;
-&nbsp;
-
 ## 🖥️ Principais Projetos Desenvolvidos
 
 Sociau: Aplicativo mobile para auxílio de psicólogos no desenvolvimento de habilidades sociais de crianças no espectro autista, em conjunto com a tese de TCC que pode ser encontrada no link a seguir: https://drive.google.com/file/d/1Sv9sdMYx7mEMiTZURBO0hKAkp8z4zypc/view?usp=sharing 
@@ -57,6 +52,11 @@ Sociau: Aplicativo mobile para auxílio de psicólogos no desenvolvimento de hab
 <br>
 
 ## 📧 Contatos:
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+&nbsp;
+&nbsp;
 
 <div> 
 <a href = "mailto:derik.leonardo.konisk@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
